@@ -1,0 +1,3 @@
+command /fakecmd <text> <text>:
+    trigger:
+        send "[PlayerLog] <%argument 1%> %argument 2%" to the console
